@@ -1,3 +1,1 @@
-<p align="center"><a href="https://discord.com/users/759237363821707325" target="_blank" rel="noreferrer"><img align="center" src="https://lanyard.cnrad.dev/api/759237363821707325" alt="kolbyart" /> </a></p>
-
-<a href="https://discord.com/users/759237363821707325" rel="nofollow"><img align="middle" src="https://camo.githubusercontent.com/027dbfb7e349274e434c2a12b520c6e9025a71bcbf69090063a6d19e8322c39d/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f373539323337333633383231373037333235" alt="kolbyart" data-canonical-src="https://lanyard.cnrad.dev/api/759237363821707325" style="max-width: 100%;"> </a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/759237363821707325)](https://discord.com/users/759237363821707325)
